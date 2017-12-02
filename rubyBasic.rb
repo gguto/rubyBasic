@@ -1,6 +1,7 @@
 idade = 29
 nome = "Guto"
 
+
 puts idade
 puts nome
 puts "teste: #{idade}"
