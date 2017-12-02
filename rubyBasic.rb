@@ -12,7 +12,7 @@ m = 0
         puts "teste: #{idade}"
         break if m == 15
     end
-
+# comentario
 if idade == 28
     puts "Idade certa"
 elsif idade == 29
